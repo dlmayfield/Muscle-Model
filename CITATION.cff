@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mayfield"
+  given-names: "Dean Leonard"
+  orcid: "https://orcid.org/0000-0003-4036-7117"
+- family-names: "Lichtwark"
+  given-names: "Glen A"
+  orcid: "https://orcid.org/0000-0001-7366-3348"
+title: "Muscle-Model"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-23
+url: "https://github.com/dlmayfield/Muscle-Model"
