@@ -1,13 +1,13 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2189639249" file="C:\Users\deanm\OneDrive\Documents\Work\UQ - Studies\Study 2 - DPS - Eldery\2021\Muscle Model\Package App - Dean - v1\Hill_Muscle_model.prj" location="C:\Users\deanm\OneDrive\Documents\Work\UQ - Studies\Study 2 - DPS - Eldery\2021\Muscle Model\Package App - Dean - v1" name="Hill_Muscle_model" target="target.mlapps" target-name="Package App">
-    <param.appname>Hill_Muscle_Model</param.appname>
-    <param.authnamewatermark />
+  <configuration build-checksum="1671245892" file="C:\Users\deanm\OneDrive\Documents\Work\UQ - Studies\Study 2 - DPS - Eldery\2021\Muscle Model\Package App - Dean - v1\Hill_muscle_model.prj" location="C:\Users\deanm\OneDrive\Documents\Work\UQ - Studies\Study 2 - DPS - Eldery\2021\Muscle Model\Package App - Dean - v1" name="Hill_muscle_model" target="target.mlapps" target-name="Package App">
+    <param.appname>Hill_muscle_model</param.appname>
+    <param.authnamewatermark>Dean Mayfield, Glen Lichtwark</param.authnamewatermark>
     <param.email />
     <param.company />
     <param.icon />
     <param.icons />
-    <param.summary />
-    <param.description />
+    <param.summary>Hill-type muscle model developed in Simulink</param.summary>
+    <param.description>Hill-type muscle model developed in Simulink</param.description>
     <param.screenshot />
     <param.version>1.0</param.version>
     <param.products.name />
@@ -15,21 +15,19 @@
     <param.products.version />
     <param.platforms />
     <param.output>${PROJECT_ROOT}</param.output>
-    <param.guid>7bbe4374-6e6c-45a4-ba1a-ea36323ad9ed</param.guid>
+    <param.guid>1e7630c0-8e02-4cdc-80b9-3e2584542d3f</param.guid>
     <unset>
-      <param.authnamewatermark />
       <param.email />
       <param.company />
       <param.icon />
       <param.icons />
-      <param.summary />
-      <param.description />
       <param.screenshot />
       <param.version />
       <param.products.name />
       <param.products.id />
       <param.products.version />
       <param.platforms />
+      <param.output />
     </unset>
     <fileset.main>
       <file>${PROJECT_ROOT}\Hill_muscle_model.mlapp</file>
